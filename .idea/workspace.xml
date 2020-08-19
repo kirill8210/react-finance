@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2bb4052-a48d-47c5-9482-6bfc03e50e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/сomponents/History.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/сomponents/Historyitem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/сomponents/Operation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/сomponents/Total.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +29,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -63,8 +71,18 @@
       <option name="presentableId" value="Default" />
       <updated>1597316235375</updated>
       <workItem from="1597316237733" duration="7387000" />
-      <workItem from="1597413165855" duration="3435000" />
+      <workItem from="1597413165855" duration="5882000" />
+      <workItem from="1597751885701" duration="6175000" />
+      <workItem from="1597820484758" duration="8659000" />
     </task>
+    <task id="LOCAL-00001" summary="Day1">
+      <created>1597418270983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597418270983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,14 +93,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1058" y="33" key="CommitChangelistDialog2" timestamp="1597417998923">
+    <state x="1026" y="185" key="#ESLint" timestamp="1597755049969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1058" y="33" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597417998923" />
-    <state x="1026" y="255" key="Vcs.Push.Dialog.v2" timestamp="1597418242962">
+    <state x="1026" y="185" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1597755049969" />
+    <state x="1164" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597752640803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1026" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597418242962" />
+    <state x="1164" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597752640803" />
+    <state x="1058" y="33" key="CommitChangelistDialog2" timestamp="1597418270106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1058" y="33" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597418270106" />
+    <state x="1302" y="421" key="Github.ShareDialog" timestamp="1597418418691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1302" y="421" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597418418691" />
+    <state x="1026" y="255" key="Vcs.Push.Dialog.v2" timestamp="1597418293330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1026" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597418293330" />
     <state x="1210" y="300" key="git4idea.merge.GitPullDialog" timestamp="1597418066802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
